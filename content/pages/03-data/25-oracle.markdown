@@ -1,13 +1,13 @@
-title: PostgreSQL
+title: Oracle
 category: page
-slug: postgresql
+slug: Oracle
 sortorder: 0302
 toc: False
-sidebartitle: PostgreSQL
-meta: PostgreSQL is an open source relational database commonly used with Python applications.
+sidebartitle: Oracle
+meta: Oracle Database is the most widely used database database commonly used with Python applications.
 
 
-[PostgreSQL](http://www.postgresql.org/), often written as "Postgres" and
+[Oracle](http://www.oracle.com/), often written as "Postgres" and
 pronounced "Poss-gres", is an open source
 [relational database](/databases.html) implementation frequently used by
 Python applications as a backend for data storage and retrieval.
